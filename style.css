@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
+    justify-content: center;
 }
 
 h1{
@@ -64,4 +65,21 @@ img{
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
+}
+
+
+.new-btn{
+    margin-top: 4rem;
+}
+#new{
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+p:hover{
+    cursor: pointer;
 }
